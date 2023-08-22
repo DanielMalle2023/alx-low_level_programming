@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * rev_sring - thi code will reverse a string by swapping
+ * rev_string - thi code will reverse a string by swapping
  * @s: string to be reversed
  * Return: void
  */
